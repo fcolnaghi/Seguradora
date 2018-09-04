@@ -1,0 +1,14 @@
+D:\workspace\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Seguradora.deps.json
+D:\workspace\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Seguradora.runtimeconfig.json
+D:\workspace\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Seguradora.runtimeconfig.dev.json
+D:\workspace\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Seguradora.dll
+D:\workspace\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Seguradora.pdb
+D:\workspace\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Seguradora.csprojAssemblyReference.cache
+D:\workspace\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Seguradora.csproj.CoreCompileInputs.cache
+D:\workspace\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Seguradora.RazorAssemblyInfo.cache
+D:\workspace\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Seguradora.RazorAssemblyInfo.cs
+D:\workspace\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Seguradora.AssemblyInfoInputs.cache
+D:\workspace\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Seguradora.AssemblyInfo.cs
+D:\workspace\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Seguradora.RazorTargetAssemblyInfo.cache
+D:\workspace\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Seguradora.dll
+D:\workspace\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Seguradora.pdb
