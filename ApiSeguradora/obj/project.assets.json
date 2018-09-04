@@ -12412,11 +12412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\WebApplication1\\WebApplication1\\Seguradora.csproj",
+      "projectUniqueName": "D:\\workspace\\WebApplication1\\ApiSeguradora\\Seguradora.csproj",
       "projectName": "Seguradora",
-      "projectPath": "D:\\workspace\\WebApplication1\\WebApplication1\\Seguradora.csproj",
+      "projectPath": "D:\\workspace\\WebApplication1\\ApiSeguradora\\Seguradora.csproj",
       "packagesPath": "C:\\Users\\fernando\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\workspace\\WebApplication1\\ApiSeguradora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

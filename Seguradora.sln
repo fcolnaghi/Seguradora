@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seguradora", "WebApplication1\Seguradora.csproj", "{1EE40474-12FA-4580-BB34-25C265D16FFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seguradora", "ApiSeguradora\Seguradora.csproj", "{1EE40474-12FA-4580-BB34-25C265D16FFB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTestSeguradora", "XUnitTestSeguradora\XUnitTestSeguradora.csproj", "{46287008-A508-461F-8DBC-AE095DF95FE3}"
 	ProjectSection(ProjectDependencies) = postProject
